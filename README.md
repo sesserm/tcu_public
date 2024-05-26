@@ -43,6 +43,7 @@ Once the data is retrieved, it is immediately stored temporarily in a MongoDB da
 The second instance involves an InfluxDB database, from which the necessary queries will be made and the data will be visualized subsequently.
 
 ## Architecture Diagram:
+![Architecture](TCU-ARCHITECTURE.svg)
 
 ## Technologies Used and Justification:
 Among the technologies employed to build the solution, the following stand out:
