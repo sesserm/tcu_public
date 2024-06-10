@@ -78,4 +78,4 @@ Together, Grafana, InfluxDB, and Telegraf form what is known as the TIG stack.
 
 ## Status on 2024-06-09 (YYYY-MM-DD):
 #### Frontend (Ngnix + Cerbot)
-![main_webpage](main.png)
+![main](main.png)
