@@ -91,3 +91,7 @@ In this image, you can see the different steps carried out in each execution of 
 #### Message Queue (RabbitMQ)
 ![rabbitmq](rabbitmq.png)
 RabbitMQ used as the distribution layer
+Three queues created:
+- Raw data
+- Processed data
+- Alerts
