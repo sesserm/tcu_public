@@ -94,4 +94,4 @@ RabbitMQ used as the distribution layer
 Three queues created:
 - Raw data
 - Processed data
-- Alerts
+- Failure alerts
