@@ -87,3 +87,7 @@ Contact section in case the user wants to provide feedback
 #### Scheduler (Airflow)
 ![airflow](airflow.png)
 In this image, you can see the different steps carried out in each execution of the flow.
+
+#### Message Queue (RabbitMQ)
+![rabbitmq](rabbitmq.png)
+RabbitMQ used as the distribution layer
