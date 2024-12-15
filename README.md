@@ -109,18 +109,22 @@ The desktop version provides the following filtering options:
 - **Transaction Type**: Filter for buy or sell operations.  
 - **Selected Period**: Choose from pre-defined time periods or select a custom date range.  
 
-### Available Graph Types
-
 The application offers three distinct types of graphs for data visualization:
 
-1. **Exchange Rate Evolution**  
+1. **Exchange Rate Evolution**:
    Displays the raw exchange rate values based on the selected filters.
 
-2. **Percentage Variation of Exchange Rates**  
+2. **Percentage Variation of Exchange Rates**:
    Visualizes the percentage changes in exchange rates over time.
 
-3. **Exchange Rate Spread**  
+3. **Exchange Rate Spread**:
    Illustrates the difference between selling and buying rates.
 
 ![grafana_mobile](mobile_grafana.png)
-Mobile grafana version used for visualizing data on mobile devices.
+The mobile version provides a simplified alternative to the desktop solution. Its primary goal is to offer a quick and straightforward way to access the core project information. This version is not designed or intended for performing any type of analysis.
+
+- Displays only the **latest recorded exchange rate**.
+- Allows filtering by:  
+  - **Source**  
+  - **Currency Type**  
+  - **Transaction Type** (buy or sell)  
