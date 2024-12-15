@@ -105,3 +105,10 @@ Three queues created:
 2 buckets created:
 - `tcu_bucket_data` : Used to store final data. Retention period: Forever.
 - `telegraf`: Collects metrics from the Telegraf agent to monitor the performance of containers and the server.. Retention period: 7 days.
+
+#### Grafana
+![grafana_desktop](grafana.png)
+Desktop grafana version.
+
+![grafana_mobile](mobile_grafana.png)
+Mobile grafana version.
