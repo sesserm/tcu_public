@@ -7,20 +7,20 @@ The project seeks to collect data on buying and selling exchange rates for vario
 
 Below is a table displaying the institutions and exchange rates that are currently retrieved:
 
-| Currency           | Aspen | Bacacay | Brou  | Cambilex | Gales | Misiones | Obelisco | Varlix |
-|--------------------|-------|---------|-------|----------|-------|----------|----------|--------|
-| CIERRE BILLETE USA | -     | YES     | -     | -        | -     | -        | -        | -      |
-| Dolar USA          | YES   | YES     | YES   | YES      | YES   | YES      | YES      | YES    |
-| DOLAR USA EBROU    | -     | -       | YES   | -        | -     | -        | -        | -      |
-| EURO               | YES   | YES     | YES   | YES      | YES   | YES      | YES      | YES    |
-| FRANCO SUIZO       | -     | -       | YES   | -        | -     | -        | -        | -      |
-| GUARANÍ            | -     | -       | YES   | -        | -     | -        | -        | -      |
-| LIBRA ESTERLINA    | -     | -       | YES   | -        | -     | -        | -        | -      |
-| PESO ARGENTINO     | YES   | YES     | YES   | YES      | YES   | YES      | YES      | YES    |
-| PESO CHILENO       | -     | YES     | -     | -        | -     | -        | -        | -      |
-| REAL BRASILEÑO     | YES   | YES     | YES   | YES      | YES   | YES      | YES      | YES    |
-| UNIDAD INDEXADA    | -     | -       | YES   | -        | -     | -        | -        | -      |
-| ONZA TROY DE ORO   | -     | -       | YES   | -        | -     | -        | -        | -      |
+| Currency           | Aspen | Bacacay | Brou  | Cambilex | Misiones | Obelisco | Varlix |
+|--------------------|-------|---------|-------|----------|----------|----------|--------|
+| CIERRE BILLETE USA | -     | YES     | -     | -        | -        | -        | -      |
+| Dolar USA          | YES   | YES     | YES   | YES      | YES      | YES      | YES    |
+| DOLAR USA EBROU    | -     | -       | YES   | -        | -        | -        | -      |
+| EURO               | YES   | YES     | YES   | YES      | YES      | YES      | YES    |
+| FRANCO SUIZO       | -     | -       | YES   | -        | -        | -        | -      |
+| GUARANÍ            | -     | -       | YES   | -        | -        | -        | -      |
+| LIBRA ESTERLINA    | -     | -       | YES   | -        | -        | -        | -      |
+| PESO ARGENTINO     | YES   | YES     | YES   | YES      | YES      | YES      | YES    |
+| PESO CHILENO       | -     | YES     | -     | -        | -        | -        | -      |
+| REAL BRASILEÑO     | YES   | YES     | YES   | YES      | YES      | YES      | YES    |
+| UNIDAD INDEXADA    | -     | -       | YES   | -        | -        | -        | -      |
+| ONZA TROY DE ORO   | -     | -       | YES   | -        | -        | -        | -      |
 
 The project is purely educational, designed to integrate various technologies to build a functional end-to-end solution. The process includes data extraction, transformation, loading, and concludes with data visualization.
 
